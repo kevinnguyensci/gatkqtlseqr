@@ -19,5 +19,5 @@ module load R
 
 # run R script
 #srun Rscript 'src/r-scripts/generate_grid2d_multirow.R'
-#srun Rscript 'src/r-scripts/install_R_packages.R'
+srun Rscript 'install_R_packages.R'
 srun Rscript 'chia_dt_analysis.R'
