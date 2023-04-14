@@ -1,3 +1,5 @@
+install.packages("devtools")
+devtools::install_github("bmansfeld/QTLseqr")
 library("QTLseqr")
 
 #Set sample and file names
