@@ -12,4 +12,4 @@ package.check <- lapply(
   }
 )
 
-devtools::install_github("bmasfeld/QTLseqr")
+devtools::install_github("bmansfeld/QTLseqr")
