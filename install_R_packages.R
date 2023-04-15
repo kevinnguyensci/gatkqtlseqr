@@ -1,6 +1,6 @@
 #### Installs required R packages ####
 
-packages <- c("devtools")
+packages <- c("devtools", "modeest", "ggplot2", "gtools", "dplyr", "readr", "tidyr", "Rcpp", "locfit", "Yang2013data")
 
 package.check <- lapply(
   packages,

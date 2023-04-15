@@ -1,0 +1,17 @@
+#how to log into cluster
+kevinnguyen@chapman.edu@keckcluster.chapman.edu
+
+ls = check your WD essentially
+
+cd gatkqtlseqr
+git pull = to pull from git and add to the WD the new files
+
+emacs "name of file" = to see file
+
+xc = close file
+xs = save file
+
+R = run R
+
+git push
+git pull
