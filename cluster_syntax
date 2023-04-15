@@ -15,3 +15,5 @@ R = run R
 
 git push
 git pull
+
+do commit, then push
